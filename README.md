@@ -9,5 +9,6 @@
 
 <h1 align="center">
 <h1>Para computador💻:</h1> 
-<img src=""/> 
+<img src="![projeto we care](https://github.com/pedropires19/We-Care/assets/159832622/f4f610ae-4d4f-453d-9ea4-7e32ecba5a44)
+"/> 
 </h1>
