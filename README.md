@@ -7,7 +7,3 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <p>Também, vale ressaltar, foi um dos meus primeiros projetos no DevClub!</p>
 
-<h1 align="center">
-<h1>Para computador💻:</h1> 
-<img src="file:///C:/Users/Marcelo/Downloads/projeto%20we%20care.html"/> 
-</h1>
